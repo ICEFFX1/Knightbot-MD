@@ -1,6 +1,6 @@
 const settings = {
   packname: 'ICE BOT',
-  author: '‎',
+  author: 'ICE_FFX1‎',
   botName: "SHADOW",
   botOwner: 'ICE', // Your name
   ownerNumber: '2348122775305', //Set your number here without + symbol, just add country code & number without any space
